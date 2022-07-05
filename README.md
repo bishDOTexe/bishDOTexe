@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://tryhackme.com/badge/1066519
+<img src="https://tryhackme.com/badge/1066519">
 <!--
 **bishDOTexe/bishDOTexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
