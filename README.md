@@ -1,5 +1,9 @@
 ### Hi there 👋
-Pentester in training. Try not to mind my potentially half broken scripts and tools. All is a work-in-progress.
+
+Passwords are like Underwear; Don't leave them laying around for others to find, change them often, and don't share them with others.
+
+Pentester in training. Try not to mind my potentially half broken scripts and tools. 
+All public repos are probably a work-in-progress.
 
 - I’m currently working on: studying for the PNPT Certification by TCM Security.
 - I’m currently learning: bash and python.
