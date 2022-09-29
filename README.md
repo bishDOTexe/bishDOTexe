@@ -6,9 +6,9 @@ Pentester in training.
 Try not to mind my potentially half broken scripts and tools. 
 All public repos are probably a work-in-progress.
 
-- I’m currently working on: studying for the PNPT Certification by TCM Security.
-- I’m currently learning: bash and python.
-- I’m looking to collaborate on: my ping-sweep script! Check out the repository below. 
+- I’m currently working on: web enumeration and automation tools.
+- I’m currently learning: Burp Suite for manipulating web requests, and Bash/Python for scripting.
+- I’m looking to collaborate on: ... anything! Shoot me a DM. 
 
 <!--
 **bishDOTexe/bishDOTexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
